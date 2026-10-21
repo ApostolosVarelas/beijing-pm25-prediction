@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Dataset and generated CSV files
+*.csv
+
+# Generated results
+/*.png
+classification_results.txt
+ML_data_crops/
+ML_all_models/
+output_plots/
+final_feature_engineering/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
