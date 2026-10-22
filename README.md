@@ -58,7 +58,7 @@ beijing-pm25-prediction/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/beijing-pm25-prediction.git
+git clone https://github.com/ApostolosVarelas/beijing-pm25-prediction.git
 cd beijing-pm25-prediction
 python -m venv .venv
 # Windows: .venv\Scripts\activate   |   macOS/Linux: source .venv/bin/activate
